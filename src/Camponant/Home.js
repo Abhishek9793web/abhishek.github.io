@@ -24,7 +24,7 @@ import "../vendor/boxicons/css/boxicons.min.css";
 import "../vendor/glightbox/css/glightbox.min.css";
 import "../vendor/swiper/swiper-bundle.min.css";
 
-import pdf from './Resume1.pdf';
+import pdf from './Personal Resume  Abhi.pdf';
 
 
 
@@ -84,7 +84,7 @@ function Home() {
                       </li>
                       <li>
                         <i class="bi bi-chevron-right"></i>{" "}
-                        <strong>Website:</strong> <span>www.example.com</span>
+                        <strong>Website:</strong> <span>Timevision.in</span>
                       </li>
                       <li>
                         <i class="bi bi-chevron-right"></i>{" "}
@@ -108,7 +108,7 @@ function Home() {
                       </li>
                       <li>
                         <i class="bi bi-chevron-right"></i>{" "}
-                        <strong>PhEmailone:</strong>{" "}
+                        <strong>Email:</strong>{" "}
                         <span>abhishekcs2022@gmail.com</span>
                       </li>
                       <li>

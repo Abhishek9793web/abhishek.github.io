@@ -78,22 +78,26 @@ export default function Resume() {
                 </p>
               </div>
 
-              <h3 class="resume-title">Education</h3>
+              <h3 class="resume-title">Project</h3>
               <div class="resume-item">
-                <h4>Portfolio Website</h4>
+                <h4>Resume maker</h4>
                 <h5>Aug 2022 - May 2026</h5>
 
                 <p>
                   <ul>
                     <li>
-                      Developed a professional portfolio website showcasing
-                      skills, projects, and career objectives
+
+                      Developed a user-friendly resume builder that allows users to
+                      create professional resumes in minutes
+              
                     </li>
                     <li>
+                      Implemented a robust algorithm to suggest relevant skills and
+                      experiences based on user input
                       Utilized HTML, CSS, and JavaScript to create an engaging
                       user experience
                     </li>
-                    <li>Link to Portfolio</li>
+                    <li >Link to Portfolio</li>
                   </ul>
                 </p>
               </div>
