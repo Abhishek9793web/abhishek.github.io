@@ -29,29 +29,28 @@ export default function Detail3() {
                 <h3>Project information</h3>
                 <ul>
                   <li>
-                    <strong>Category</strong>: Web design
+                    <strong>Category</strong>: Web Application
                   </li>
                   <li>
-                    <strong>Client</strong>: ASU Company
+                    <strong>Client</strong>: Personal Project
                   </li>
                   <li>
-                    <strong>Project date</strong>: 01 March, 2020
+                    <strong>Project date</strong>: 10 Feb, 2026
                   </li>
                   <li>
                     <strong>Project URL</strong>:{" "}
-                    <a href="/">www.example.com</a>
+                    <a href="https://startup-deals-6si3.vercel.app/">https://startup-deals-6si3.vercel.app/</a>
                   </li>
                 </ul>
               </div>
               <div class="portfolio-description">
-                <h2>This is an example of portfolio detail</h2>
+                <h2>Startup Deals</h2>
                 <p>
-                  Autem ipsum nam porro corporis rerum. Quis eos dolorem eos
-                  itaque inventore commodi labore quia quia. Exercitationem
-                  repudiandae officiis neque suscipit non officia eaque itaque
-                  enim. Voluptatem officia accusantium nesciunt est omnis
-                  tempora consectetur dignissimos. Sequi nulla at esse enim cum
-                  deserunt eius.
+                  Startup Deals is a web application that helps you find the best deals on startups.
+                  It is a platform that allows you to find the best deals on startups and compare
+                  them with other startups. It is a platform that allows you to find the best deals
+                  on startups and compare them with other startups.
+
                 </p>
               </div>
             </div>

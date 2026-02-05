@@ -6,7 +6,7 @@ import { FaAngleRight } from "react-icons/fa";
 import {
   AiFillTwitterCircle,
   AiFillInstagram,
- 
+
 } from "react-icons/ai";
 import { BsFacebook, BsLinkedin } from "react-icons/bs";
 import { FaArrowUp } from "react-icons/fa";
@@ -24,13 +24,13 @@ import "../vendor/boxicons/css/boxicons.min.css";
 import "../vendor/glightbox/css/glightbox.min.css";
 import "../vendor/swiper/swiper-bundle.min.css";
 
-import pdf from './Personal Resume  Abhi.pdf';
+import pdf from './Abhishek_Goswami_Resume.pdf';
 
 
 
 //SwiperCore.use([Pagination]);
 function Home() {
- 
+
   return (
     <div>
       <section id="hero">
@@ -46,8 +46,8 @@ function Home() {
           </a>
         </div>
         <div className="circle">
-          <a href={pdf} className="btn-port2"   target="_blank" rel="noopener noreferrer" >
-              Hire me
+          <a href={pdf} className="btn-port2" target="_blank" rel="noopener noreferrer" >
+            Hire me
           </ a>
           <button
             className="btn-port"
@@ -56,7 +56,7 @@ function Home() {
             Portfolio
           </button>
         </div>
-      
+
       </section>
       <section id="about" class="about">
         <div class="container">
@@ -241,9 +241,9 @@ function Home() {
                 <h4>Business &amp; Founder</h4>
                 <p>
                   <i className="bx bxs-quote-alt-left quote-icon-left"></i>
-                  "Having reviewed the project, I am impressed with the level of detail and thoughtfulness 
+                  "Having reviewed the project, I am impressed with the level of detail and thoughtfulness
                   put into its development. The project demonstrates a strong understanding of blockchain
-                   concepts and effectively applies them to create a practical solution.
+                  concepts and effectively applies them to create a practical solution.
                   <i className="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -256,8 +256,8 @@ function Home() {
                 <p>
                   <i className="bx bxs-quote-alt-left quote-icon-left"></i>
                   The architecture is well-designed, and the code is clean and maintainable.
-                   It's evident that the development team has a deep understanding of blockchain technology
-                    and its potential applications.
+                  It's evident that the development team has a deep understanding of blockchain technology
+                  and its potential applications.
                   <i className="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -270,7 +270,7 @@ function Home() {
                 <p>
                   <i className="bx bxs-quote-alt-left quote-icon-left"></i>Rating: 4.5/5 ,
                   Additionally, I am proposed incorporating a contact form or interactive features
-                   to enhance user engagement and facilitate communication with visitors.
+                  to enhance user engagement and facilitate communication with visitors.
                   <i className="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -285,7 +285,7 @@ function Home() {
             <span>My Services</span>
             <h2>My Services</h2>
             <p>
-            Our Services offers a user-friendly interface with intuitive tools that guide you . We are committed to providing top-notch serviceI offer various services as per your requirements.
+              Our Services offers a user-friendly interface with intuitive tools that guide you . We are committed to providing top-notch serviceI offer various services as per your requirements.
             </p>
           </div>
 
@@ -299,8 +299,8 @@ function Home() {
                   <a href="/">Web Design</a>
                 </h4>
                 <p class="description">
-                Welcome to our professional web design services! We specialize in creating
-                 stunning and functional websites tailored to meet your unique business needs.
+                  Welcome to our professional web design services! We specialize in creating
+                  stunning and functional websites tailored to meet your unique business needs.
                 </p>
               </div>
             </div>
@@ -314,8 +314,8 @@ function Home() {
                   <a href="/">Web developement</a>
                 </h4>
                 <p class="description">
-                Are you looking to establish a strong online presence for your business
-                 or organization? Look no further! Our web development services offer tailored solutions to meet your specific needs and objectives.
+                  Are you looking to establish a strong online presence for your business
+                  or organization? Look no further! Our web development services offer tailored solutions to meet your specific needs and objectives.
                 </p>
               </div>
             </div>
@@ -326,14 +326,14 @@ function Home() {
                   <i class="bx bx-tachometer"></i>
                 </div>
                 <h4 class="title">
-                  <a href="https://resumemaker-io.netlify.app"   target="_blank" rel="noopener noreferrer">
+                  <a href="https://resumemaker-io.netlify.app" target="_blank" rel="noopener noreferrer">
                     Resume Builder
                   </a>
                 </h4>
                 <p class="description">
-                "Welcome to our resume maker service, where we transform your professional 
-                journey into a compelling narrative. and our platform empowers you to create 
-                a resume that truly reflects your skills, experience, and personality.
+                  "Welcome to our resume maker service, where we transform your professional
+                  journey into a compelling narrative. and our platform empowers you to create
+                  a resume that truly reflects your skills, experience, and personality.
                 </p>
               </div>
             </div>
@@ -347,9 +347,9 @@ function Home() {
                   <a href="/">E-commerce</a>
                 </h4>
                 <p class="description">
-                E-commerce services encompass a wide range of solutions and offerings aimed at facilitating 
-                online buying and selling activities for businesses. These services typically include:Online 
-                Store Development,Payment Gateway Integration,Order Fulfillment.
+                  E-commerce services encompass a wide range of solutions and offerings aimed at facilitating
+                  online buying and selling activities for businesses. These services typically include:Online
+                  Store Development,Payment Gateway Integration,Order Fulfillment.
                 </p>
               </div>
             </div>
@@ -359,12 +359,12 @@ function Home() {
                   <i class="bx bx-world"></i>
                 </div>
                 <h4 class="title">
-                  <a href="https://torrnet.netlify.app"   target="_blank" rel="noopener noreferrer">Erc-Token</a>
+                  <a href="https://torrnet.netlify.app" target="_blank" rel="noopener noreferrer">Erc-Token</a>
                 </h4>
                 <p class="description">
                   It is a technical standard used for smart contracts on the Ethereum blockchain.
                   These tokens are fungible and can represent various digital or physical assets,
-                   including cryptocurrencies, loyalty points, or even real-world commodities.
+                  including cryptocurrencies, loyalty points, or even real-world commodities.
                 </p>
               </div>
             </div>
@@ -442,19 +442,19 @@ function Home() {
                   your life.(o!o)
                 </p>
                 <div class="social-links mt-3">
-                  <a  href="https://twitter.com/Abhishe87156156"  target="_blank" rel="noopener noreferrer" class="twitter">
+                  <a href="https://twitter.com/Abhishe87156156" target="_blank" rel="noopener noreferrer" class="twitter">
                     <AiFillTwitterCircle />
                   </a>
-                  <a  href="https://www.instagram.com/abhishekgoswami979/?next=%2F" target="_blank" rel="noopener noreferrer"  class="facebook">
+                  <a href="https://www.instagram.com/abhishekgoswami979/?next=%2F" target="_blank" rel="noopener noreferrer" class="facebook">
                     <BsFacebook />
                   </a>
-                  <a href="https://www.instagram.com/abhishekgoswami979/?next=%2F" target="_blank" rel="noopener noreferrer"  class="instagram">
+                  <a href="https://www.instagram.com/abhishekgoswami979/?next=%2F" target="_blank" rel="noopener noreferrer" class="instagram">
                     <AiFillInstagram />
                   </a>
-                  <a href="https://github.com/Abhishek9793web?tab=repositories"  target="_blank" rel="noopener noreferrer" class="google-plus">
-                  <i class="bi bi-github"></i>
+                  <a href="https://github.com/Abhishek9793web?tab=repositories" target="_blank" rel="noopener noreferrer" class="google-plus">
+                    <i class="bi bi-github"></i>
                   </a>
-                  <a href="https://www.linkedin.com/in/abhishek-goswami-43b653190/"   target="_blank" rel="noopener noreferrer" class="linkedin">
+                  <a href="https://www.linkedin.com/in/abhishek-goswami-43b653190/" target="_blank" rel="noopener noreferrer" class="linkedin">
                     <BsLinkedin />
                   </a>
                 </div>
@@ -470,7 +470,7 @@ function Home() {
               <p>
                 {" "}
                 Designed by{" "}
-                <a href="https://github.com/Abhishek9793web"  target="_blank" rel="noopener noreferrer">Resume maker</a>
+                <a href="https://github.com/Abhishek9793web" target="_blank" rel="noopener noreferrer">Resume maker</a>
               </p>
             </div>
           </div>
