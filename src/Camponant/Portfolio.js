@@ -31,21 +31,21 @@ const Portfolio = () => {
   };
 
   const portfolioItems = [
-    { title: "Project ", category: ".filter-app", imgSrc: img1, src: "/details1" },
-    { title: "Project 1", category: ".filter-app", imgSrc: img , src:"/details"},
-    { title: "Project 2", category: ".filter-app", imgSrc: img2 ,src:"/detail2"},
-    { title: "Project 3", category: ".filter-app", imgSrc: img3 ,src:"/detail3"},
-    { title: "Project 4", category: ".filter-web", imgSrc: img4 , src:"/detail4"},
-    { title: "Project 5", category: ".filter-web", imgSrc: img5 ,src:"/detail5"},
-    { title: "Project 6", category: ".filter-web", imgSrc: img6 ,src:"/detail6"},
-    { title: "Project 7", category: ".filter-web", imgSrc: img7 ,src:"/detail7"},
-    { title: "Project 8", category: ".filter-web", imgSrc: img8 ,src:"/detail8"},
-    { title: "Project 9", category: ".filter-web", imgSrc: img9 ,src:"/detail9" },
-    { title: "Project 10", category: ".filter-card", imgSrc: img10 ,src:"/detail10"},
-    { title: "Project 11", category: ".filter-card", imgSrc: img11 ,src:"/detail11"},
-    { title: "Project 12", category: ".filter-caed", imgSrc: img12 ,src:"/detail12"},
-    { title: "Project 12", category: ".filter-caed", imgSrc: img13 ,src:"/detail13"},
-    { title: "Project 12", category: ".filter-caed", imgSrc: img14 ,src:"/detail14"},
+    { title: "ERC20 Token", category: ".filter-web", imgSrc: img1, src: "/details1" },
+    { title: "Shoping Zone", category: ".filter-web", imgSrc: img, src: "/details" },
+    { title: "Resume Builder", category: ".filter-web", imgSrc: img2, src: "/detail2" },
+    { title: "StartUp-Deals", category: ".filter-web", imgSrc: img3, src: "/detail3" },
+    { title: "CSED-Website-Bootstrap", category: ".filter-web", imgSrc: img4, src: "/detail4" },
+    { title: "SHA-256-Hash-Generator", category: ".filter-web", imgSrc: img5, src: "/detail5" },
+    { title: "Space-Game", category: ".filter-web", imgSrc: img6, src: "/detail6" },
+    { title: "Google form", category: ".filter-web", imgSrc: img7, src: "/detail7" },
+    { title: "Metamask signup", category: ".filter-web", imgSrc: img8, src: "/detail8" },
+    { title: "Project 9", category: ".filter-web", imgSrc: img9, src: "/detail9" },
+    { title: "Project 10", category: ".filter-card", imgSrc: img10, src: "/detail10" },
+    { title: "Project 11", category: ".filter-card", imgSrc: img11, src: "/detail11" },
+    { title: "Project 12", category: ".filter-card", imgSrc: img12, src: "/detail12" },
+    { title: "Snake Game", category: ".filter-card", imgSrc: img13, src: "/detail13" },
+    { title: "NFT Marketplace", category: ".filter-card", imgSrc: img14, src: "/detail14" },
     // Add more portfolio items as needed
   ];
 
@@ -57,7 +57,7 @@ const Portfolio = () => {
             <span>My Portfolio</span>
             <h2>My Portfolio</h2>
             <p>
-             It is my  professional portfolio website showcasing skills, projects, and career objectives
+              It is my  professional portfolio website showcasing skills, projects, and career objectives
             </p>
           </div>
           {/* Filter buttons */}
@@ -126,7 +126,7 @@ const Portfolio = () => {
         </div>
       </section>
 
-      
+
     </div>
   );
 };
